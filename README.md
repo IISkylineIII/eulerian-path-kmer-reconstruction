@@ -88,8 +88,10 @@ paired_kmers = [
 result = string_reconstruction_from_read_pairs(paired_kmers)
 print(result)
 
+
 Example Output
 ACCAATTG
+
 Requirements
 Python 3.6 or higher
 
