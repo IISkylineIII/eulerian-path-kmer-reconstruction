@@ -86,25 +86,24 @@ paired_kmers = [
 ]
 
 result = string_reconstruction_from_read_pairs(paired_kmers)
-print(result)
+print(result) 
 
+```
 
 Example Output
 ACCAATTG
 
-Requirements
+## Requirements
 Python 3.6 or higher
 
 No external libraries are required.
 
-Applications
+### Applications
 Genome assembly and sequence reconstruction
-
 Bioinformatics tasks involving paired k-mers
-
 Eulerian path applications in graph theory
 
-License
+### License
 This project is released under the MIT License.
 
 
